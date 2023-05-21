@@ -25,7 +25,7 @@ public class SommSucc {
 				n2 = n2 - 1;
 			}
 		}
-		System.out.println("Il risultato è " + r);
+		System.out.println("Il risultato Ã¨ " + r);
 		tastiera.close();
 	}
 }
